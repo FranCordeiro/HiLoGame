@@ -1,5 +1,6 @@
 How to play:
 
+-Rebuild the two projects
 -Run the batch RunGame.bat
 	-Will be opened 3 windows:
 		-1 - For server logs
